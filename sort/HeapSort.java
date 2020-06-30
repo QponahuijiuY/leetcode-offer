@@ -5,7 +5,7 @@ package com.mutong.algs.sort;
  * 3. 除去最后一个数,前面的数字做heapify操作,重新形成一个大根堆, 4.吧堆顶和现在大根堆中最后一个数字交换,重复 每次搞定一个末尾
  * @Author: Mutong
  * @Date: 2020-02-26 20:03
- * @time_complexity: O()
+ * @time_complexity: O() 啊
  */
 public class HeapSort {
     public static void sort(int[] arr) {
